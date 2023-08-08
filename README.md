@@ -12,7 +12,6 @@ Check out the live demo of LuxHub: [LuxHub Demo](https://luxhub.onrender.com/)
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
 - [Features](#features)
 - [Screenshots](#screenshots)
 
@@ -52,7 +51,7 @@ npm start
 5. The application should now be accessible at http://localhost:3000.
 
 
-## Usage
+## Features
 
 LuxHub offers the following features:
 
