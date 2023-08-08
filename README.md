@@ -1,6 +1,6 @@
 # LuxHub
 
-This is a course project I created together with @winghojackyli in 2023 Summer.
+This is a course project created by @winghojackyli and @veronicacheng2 in Summer 2023.
 
 LuxHub is a MERN web application designed for buying and selling sneakers, apparel, accessories, and more. It provides a platform for users to place bids and asks for various products and keep track of their prices. Whether you're a sneaker enthusiast or a fashion aficionado, LuxHub offers a seamless experience for trading luxury items.
 
