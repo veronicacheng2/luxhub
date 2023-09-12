@@ -80,7 +80,8 @@ LuxHub offers the following features:
 2.  Direct links to popular brands and section showing latest releases.
     ![](screenshots/Picture2.png)
     <br /><br />
-3.  Bestsellers section which shows the products that have the highest number sold.\Newsletter section which allows user to subscribe to LuxHub email list by entering email.
+3.  Bestsellers section which shows the products that have the highest number sold.
+    Newsletter section which allows user to subscribe to LuxHub email list by entering email.
 ![](screenshots/Picture3.png)
 <br /><br />
 ### User Registration Page
@@ -120,7 +121,7 @@ LuxHub offers the following features:
 ### Placing a Bid
 
 1. User can place a bid on the product by clicking ‘BID or BUY’ button.
-  /After inputting the bid value, user needs to fill in payment information. (For testing purpose, please fill in ‘4242 4242 4242 4242’ for card numbers, and for month value please fill in current month or at least one month later than the current month.)
+   After inputting the bid value, user needs to fill in payment information. (For testing purpose, please fill in ‘4242 4242 4242 4242’ for card numbers, and for month value please fill in current month or at least one month later than the current month.)
    ![](screenshots/Picture13.png)
 <br /><br />
 2. Bid has been created.
@@ -176,12 +177,13 @@ LuxHub offers the following features:
 
 1. Admin can create new product by clicking the create button on “Browse” page.
    ![](screenshots/Picture29.png)
+   <br />
    ![](screenshots/Picture30.png)
 <br /><br />
-2. Admin can edit/delete the product on “Product Details” page.
+3. Admin can edit/delete the product on “Product Details” page.
    ![](screenshots/Picture31.png)
    ![](screenshots/Picture32.png)
 <br /><br />
-3. Admin can create, edit or delete new post on “Styles” page.
+4. Admin can create, edit or delete new post on “Styles” page.
    ![](screenshots/Picture33.png)
    ![](screenshots/Picture34.png)
