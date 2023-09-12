@@ -76,112 +76,112 @@ LuxHub offers the following features:
 
 1.  Slider showing featured products.
     ![](screenshots/Picture1.png)
-    <br />
+    <br /><br />
 2.  Direct links to popular brands and section showing latest releases.
     ![](screenshots/Picture2.png)
-    <br />
-3.  Bestsellers section which shows the products that have highest number sold.<br /> <br />Newsletter section which allows user to subscribe to LuxHub email list by entering email.
-
+    <br /><br />
+3.  Bestsellers section which shows the products that have the highest number sold.\Newsletter section which allows user to subscribe to LuxHub email list by entering email.
 ![](screenshots/Picture3.png)
-
+<br /><br />
 ### User Registration Page
 
 ![](screenshots/Picture4.png)
-
+<br /><br />
 ### User Sign-in Page
 
 ![](screenshots/Picture5.png)
-
+<br /><br />
 ### Browse Page
 
 1. Browse page shows all the available products, user can search, filter and sort the product catalogue.
    ![](screenshots/Picture6.png)
-<br />
+<br /><br />
 2. User can search products with the search bar at the top left corner, this screenshot shows the results for searching “nike” products
-   ![](screenshots/Picture7.png)
-<br />
+![](screenshots/Picture7.png)
+<br /><br />
 3. User can apply filters and sort for products category, this screenshot shows the result of applying ‘shoes’ and ‘adidas’ filter and sorting by ‘popularity’:
-   ![](screenshots/Picture8.png)
-<br />
+![](screenshots/Picture8.png)
+<br /><br />
+
 ### Product Details page
 
 1. User can see the product details such as release date, number sold last sale by clicking the product box
    ![](screenshots/Picture9.png)
-<br />
+<br /><br />
 2. User can view all active bids for the product by clicking ‘View All Bids’ button
    ![](screenshots/Picture10.png)
-<br />
+<br /><br />
 3. User can view all active asks for the product by clicking ‘View All Asks’ button
    ![](screenshots/Picture11.png)
-<br />
+<br /><br />
 4. By selecting the size, user can view the highest bid and lowest ask for the size. <br /> <br /> In this screenshot, highest bid is $150 and lowest ask is $260 for size 8 Air Jordan 4 Retro SB Pine Green
    ![](screenshots/Picture12.png)
-
+<br /><br />
 ### Placing a Bid
 
-1. User can place a bid on the product by clicking ‘BID or BUY’ button
-   <br/><br/>After inputting the bid value, user needs to fill in payment information. (For testing purpose, please fill in ‘4242 4242 4242 4242’ for card numbers, and for month value please fill in current month or at least one month later than the current month.)
+1. User can place a bid on the product by clicking ‘BID or BUY’ button.
+  /After inputting the bid value, user needs to fill in payment information. (For testing purpose, please fill in ‘4242 4242 4242 4242’ for card numbers, and for month value please fill in current month or at least one month later than the current month.)
    ![](screenshots/Picture13.png)
-<br />
+<br /><br />
 2. Bid has been created.
    ![](screenshots/Picture14.png)
-
+<br /><br />
 ### Placing an Ask
 
 1. User can place an ask on the product by clicking ‘ASK or SELL’ button.
    ![](screenshots/Picture16.png)
-<br />
+<br /><br />
 2. Ask can be created after clicking ‘PLACE ASK’ button and inputting the ask value
    ![](screenshots/Picture17.png)
-
+<br /><br />
 ### Special Case: Placing a bid that is higher than the lowest ask
 
 1.  The lowest ask is $200 for size 8, we attempt to place a $220 bid
     ![](screenshots/Picture27.png)
-    <br />
+    <br /><br />
 2.  A modal will pop out and remind the user that he can buy the product at $200 instead of $220
     ![](screenshots/Picture18.png)
-
+<br /><br />
 ### Special Case: Placing an ask that is lower than the highest bid
 
 1. The highest bid is $350 for size 9, we attempt to create an ask of $330.
    ![](screenshots/Picture27.png)
-<br />
+<br /><br />
 2. A modal will pop out and remind the user can sell the product at $350 instead of $330
    ![](screenshots/Picture19.png)
-
+<br /><br />
 ### User Profile Page
 
 1. User can change profile information.
    ![](screenshots/Picture22.png)
-<br />
+<br /><br />
 2. User can view bids history, edit the bid price or delete the bid.
    ![](screenshots/Picture23.png)
-<br />
+<br /><br />
 3. User can view asks history, edit the ask price or delete the ask.
    ![](screenshots/Picture24.png)
-<br />
+<br /><br />
 4. User can view buying order history and selling order history in “Orders” tab.
    ![](screenshots/Picture25.png)
-
+<br /><br />
 ### Styles Page
 
 1. User can browse the posts created by admin.
    ![](screenshots/Picture20.png)
-<br />
+<br /><br />
 2. User can navigate to the “Product Details Page” by clicking the product name shown under the image.
    ![](screenshots/Picture21.png)
-
+<br /><br />
 ### Admin Login
 
 1. Admin can create new product by clicking the create button on “Browse” page.
    ![](screenshots/Picture29.png)
    ![](screenshots/Picture30.png)
-<br />
+<br /><br />
 2. Admin can edit/delete the product on “Product Details” page.
    ![](screenshots/Picture31.png)
    ![](screenshots/Picture32.png)
-<br />
+<br /><br />
 3. Admin can create, edit or delete new post on “Styles” page.
    ![](screenshots/Picture33.png)
    ![](screenshots/Picture34.png)
